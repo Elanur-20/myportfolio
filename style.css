@@ -6,8 +6,8 @@
 
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  line-height: 1.6;
-  color: #333;
+  line-height: 2.5;
+  color: #ff94a8;
   background: linear-gradient(135deg, #fff2f1 0%, #ffe0de 50%, #83e1e0 100%);
 }
 
@@ -148,7 +148,7 @@ address p {
 }
 
 time {
-  color: #666;
+  color: #ff94a8;
   font-style: italic;
 }
 
